@@ -48,8 +48,9 @@ body {
 }
 
 .wrapper span {
-  text-align: center;
+ float: right;
   position: relative;
+  margin-bottom: 20px;
 }
 
 .wrapper span::before {
@@ -101,6 +102,6 @@ body {
   }
 
   .wrapper span {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
